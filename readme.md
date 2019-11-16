@@ -14,11 +14,21 @@ The project includes implementation of K-nearest neighbour algorithm (an unsuper
 
 * K = 5 
     * SSE = 335.843
-        * cluster 1:  1526 tweets
-        * cluster 2:  579 tweets 
-        * cluster 3:  720 tweets 
-        * cluster 4:  758 tweets 
-        * cluster 5:  346 tweets 
+        * cluster 1: 1526 tweets
+        * cluster 2: 579 tweets 
+        * cluster 3: 720 tweets 
+        * cluster 4: 758 tweets 
+        * cluster 5: 346 tweets
+	
+* K = 7
+    * SSE = 3239.233
+    	* cluster 1: 605 tweets 
+	* cluster 2: 452 tweets
+	* cluster 3: 675 tweets
+	* cluster 4: 536 tweets
+	* cluster 5: 762 tweets
+	* cluster 6: 510 tweets
+	* cluster 7: 389 tweets 
 
 ## Programming Instructions
 
