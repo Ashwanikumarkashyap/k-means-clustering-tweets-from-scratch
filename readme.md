@@ -1,4 +1,4 @@
-# K-Means - Tweets Clustering
+# K-Means - Tweets Clustering (from scratch)
 
 The project includes implementation of K-means algorithm (an unsupervised learning algorithm) without using any libraries. The Objective of this project is to cluster the simmilar tweets based on similarity of words within the sentences. At the end of each experiment for different values of k, sum of squared error (SEE) is computed. The algorithm uses Jaccard distance to compute the numerical distances betweeen two tweets "http://en.wikipedia.org/wiki/Jaccard_index". Dynamic programming is also utilizied within the code in order to improve the computational running time of the program.
 
